@@ -3,7 +3,8 @@
 ![alt text][pic1]
 
 Simple circuit that converts a toogle switch into a double/single momentary one, generating short pulses on rising or falling edges.
-Thanks to the opto isolated outputs it can be used in button matrix systems.
+Thanks to the opto isolated outputs it can be used in button matrix systems, too.
+
 Might be a handy trick when building panels in DIY cockpits, whenever there is a need for a toogle switch, but the hardware expects a pushbutton.
 
 Both outputs can be used separately to generate two "on" and "off" press events.
